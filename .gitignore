@@ -1,0 +1,33 @@
+# Python cache / build files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Environment & secrets
+.env
+*.env
+
+# UV (dependency manager)
+uv.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
