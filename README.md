@@ -23,7 +23,7 @@ Installation & Setup
 
 1. Clone the repository
 git clone https://github.com/ch4nbin/python-llm-agent.git
-cd ai-chatbot
+cd python-llm-agent
 
 2. Install dependencies with UV
 uv init
