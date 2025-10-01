@@ -22,7 +22,7 @@ AI Chatbot/
 Installation & Setup
 
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/ai-chatbot.git
+git clone https://github.com/ch4nbin/python-llm-agent.git
 cd ai-chatbot
 
 2. Install dependencies with UV
